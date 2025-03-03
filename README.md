@@ -14,17 +14,6 @@ This project is for **Assignment 4** in the **MDIA 4311** course at **BCIT**. Th
 - **HTML5**
 - **CSS3** (Flexbox, Grid, Media Queries)
 
-## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone <repository_url>
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd mdia4311-assignment4
-   ```
-3. Open `index.html` in your browser or use a local server.
-
 ## Responsive Design Breakpoints
 - **Mobile:** up to 600px
 - **Tablet:** 601px - 1024px
